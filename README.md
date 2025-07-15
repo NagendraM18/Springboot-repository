@@ -14,4 +14,11 @@ Concepts like<br>
 
 4. DTO[data transfer oobject] and modelMapperI<br>
 
+5.sorting and pagnation<br>
+
+6.jpa one to one <br>
+one to many<br>
+many to one<br>
+many to many<br>
+
 
