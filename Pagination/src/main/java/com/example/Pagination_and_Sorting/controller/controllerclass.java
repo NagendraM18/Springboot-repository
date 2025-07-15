@@ -42,5 +42,10 @@ public class controllerclass
         return ResponseEntity.ok()
                 .body(object1);
     }
+    @DeletMapping("/delet")
+    public ResponseEntity<String> deletthproduct(String priceoftheproduct)
+    {
+        impli.getdatabypagination(priceoftheproduct);
+        return "deleted";
 
 }
