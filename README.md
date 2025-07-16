@@ -20,5 +20,7 @@ Concepts like<br>
 one to many<br>
 many to one<br>
 many to many<br>
+7.bi directional and uni directional 
+8.Transactional 
 
 
